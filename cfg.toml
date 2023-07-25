@@ -1,0 +1,3 @@
+[cesspool]
+wifi_ssid = "your-SSID"
+wifi_psk = "your-secret-wifi-password"
